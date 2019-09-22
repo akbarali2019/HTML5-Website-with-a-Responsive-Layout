@@ -23,6 +23,8 @@ To see more, visit and enjoy!
 
 # Responsive view of the Website
 
-![image](https://user-images.githubusercontent.com/52565814/65390541-1ac07280-dd9b-11e9-8eb6-3201a29855ab.png)
+![image](https://user-images.githubusercontent.com/52565814/65390541-1ac07280-dd9b-11e9-8eb6-3201a29855ab.png)  
+
+![image](https://user-images.githubusercontent.com/52565814/65390574-59562d00-dd9b-11e9-8733-794d590a2dc0.png)
 
 
