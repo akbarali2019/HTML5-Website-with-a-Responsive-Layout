@@ -11,6 +11,7 @@ Here, you can see there are "Header", "Navigation Bar", "MochiChanel-div", "Main
           CSS
           Media Quries
           Visual Studio Code Editor
+          Photoshop Online Editor
           Windows OS
   
 To see more, visit and enjoy!
