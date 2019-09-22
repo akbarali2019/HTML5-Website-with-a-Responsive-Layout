@@ -17,5 +17,5 @@ To see more, visit and enjoy!
 
 # Home Page
 
-![image](https://user-images.githubusercontent.com/52565814/65390262-54dc4500-dd98-11e9-97de-37bfb8e5d181.png)
+![image](https://user-images.githubusercontent.com/52565814/65390405-59edc400-dd99-11e9-8e1f-5b6e7c90b7f7.png)
 
