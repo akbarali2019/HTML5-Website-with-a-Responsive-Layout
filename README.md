@@ -16,4 +16,6 @@ Here, you can see there are "Header", "Navigation Bar", "MochiChanel-div", "Main
 To see more, visit and enjoy!
 
 # Home Page
-![image](https://user-images.githubusercontent.com/52565814/65390041-86eca780-dd96-11e9-9bb8-8a1f9a2ecd13.png)
+
+![image](https://user-images.githubusercontent.com/52565814/65390262-54dc4500-dd98-11e9-97de-37bfb8e5d181.png)
+
